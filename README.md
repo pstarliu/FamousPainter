@@ -3,3 +3,6 @@ A small project to help me getting started with Typescript, it is the final proj
 
 It is created using Visual Stduio 2013 using Typescript with Jquery and Bootstrap. The only trick part is getting 
 Bootstrap working wih requirejs and Jquery.
+
+## Demo link
+http://pstarliu.github.io/FamousPainters/painters.html
