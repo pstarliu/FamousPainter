@@ -1,0 +1,139 @@
+{
+    "famousPainters": [
+        {
+            "name": "Michelangelo",
+            "nationality": "Italian",
+            "birthplace": "Caprese near Arezzo, Republic of Florence (present-day Tuscany, Italy)",
+            "birthdate": "6/03/1475",
+            "style": "Renaissance",
+            "examples": [
+                {
+                    "name": "Madonna and Child",
+                    "year": "1504",
+                    "url": "https://en.wikipedia.org/wiki/Michelangelo#/media/File:Madonna_michelangelo1.jpg",
+                    "thumbnail": "images/Madonna_michelangelo1.jpg"
+                },
+                {
+                    "name": "Sistine Chapel",
+                    "year": "1505-12",
+                    "url": "https://en.wikipedia.org/wiki/File:Vatican-ChapelleSixtine-Plafond.jpg",
+                    "thumbnail": "images/800px-Vatican-ChapelleSixtine-Plafond.jpg"
+                },
+                {
+                    "name": "The Last Judgement",
+                    "year": "1534-46",
+                    "url": "https://en.wikipedia.org/wiki/File:Last_Judgement_by_Michelangelo.jpg",
+                    "thumbnail": "images/Last_Judgement_by_Michelangelo.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Raphael",
+            "nationality": "Italian",
+            "birthplace": "Raffaello Sanzio da Urbino",
+            "birthdate": "28/03/1483",
+            "style": "Renaissance",
+            "examples": [
+                {
+                    "name": "School at Athens",
+                    "year": "1509-1511",
+                    "url": "https://en.wikipedia.org/wiki/The_School_of_Athens#/media/File:Sanzio_01.jpg",
+                    "thumbnail": "images/1280px-Sanzio_01.jpg"
+                },
+                {
+                    "name": "Lucretia",
+                    "year": "1515",
+                    "url": "https://en.wikipedia.org/wiki/Raphael#/media/File:Raimondi_Lucretia%27s_suicide.jpg",
+                    "thumbnail": "images/Raimondi_Lucretia's_suicide.jpg"
+                },
+                {
+                    "name": "Saint George and the Dragon",
+                    "year": "1504-1506",
+                    "url": "https://en.wikipedia.org/wiki/Raphael#/media/File:Lvr-george.jpg",
+                    "thumbnail": "images/Saint_george_raphael.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Vincent van Gogh",
+            "nationality": "Dutch",
+            "birthplace": "Zundert, Netherlands",
+            "birthdate": "30/03/1853",
+            "style": "Post-Impressionist",
+            "examples": [
+                {
+                    "name": "Vase with 12 sunflowers",
+                    "year": "1888",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vincent_Willem_van_Gogh_128.jpg/819px-Vincent_Willem_van_Gogh_128.jpg",
+                    "thumbnail":  "images/819px-Vincent_Willem_van_Gogh_128.jpg"
+                },
+                {
+                    "name": "The Starry Night",
+                    "year": "1889",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1137px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+                    "thumbnail": "images/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+                },
+                {
+                    "name": "The Yellow House",
+                    "year": "1888",
+                    "url": "https://en.wikipedia.org/wiki/D%C3%A9coration_for_the_Yellow_House#/media/File:Vincent_van_Gogh_-_The_yellow_house_(%27The_street%27).jpg",
+                    "thumbnail": "images/Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg"
+                }
+            ]
+        },
+        {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "birthplace": "Paris, France",
+            "birthdate": "14/11/1840",
+            "style": "Impressionist",
+            "examples": [
+                {
+                    "name": "Morning on the Seine",
+                    "year": "1898",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Claude_Monet_-_Morning_on_the_Seine_-_Google_Art_Project.jpg/962px-Claude_Monet_-_Morning_on_the_Seine_-_Google_Art_Project.jpg",
+                    "thumbnail": "images/962px-Claude_Monet_-_Morning_on_the_Seine_-_Google_Art_Project.jpg"
+                },
+                {
+                    "name": "The Woman in the Green Dress",
+                    "year": "1866",
+                    "url": "https://en.wikipedia.org/wiki/Claude_Monet#/media/File:Claude_Monet_-_Camille.JPG",
+                    "thumbnail": "images/800px-Claude_Monet_-_Camille.jpg"
+                },
+                {
+                    "name": "Sunrise",
+                    "year": "1872",
+                    "url": "https://en.wikipedia.org/wiki/Claude_Monet#/media/File:Claude_Monet,_Impression,_soleil_levant.jpg",
+                    "thumbnail": "images/1280px-Claude_Monet,_Impression,_soleil_levant.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Johannes Vermeer",
+            "nationality": "Dutch",
+            "birthplace": "Delft, Dutch Republic",
+            "birthdate": "15/12/1675",
+            "style": "Baroque",
+            "examples": [
+                {
+                    "name": "The Milkmaid",
+                    "year": "1660",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/913px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+                    "thumbnail": "images/913px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
+                },
+                {
+                    "name": "Girl with a Pearl Earring",
+                    "year": "1665",
+                    "url": "https://en.wikipedia.org/wiki/Johannes_Vermeer#/media/File:Meisje_met_de_parel.jpg",
+                    "thumbnail": "images/Meisje_met_de_parel.jpg"
+                },
+                {
+                    "name": "The Music Lesson",
+                    "year": "1662-65",
+                    "url": "https://en.wikipedia.org/wiki/Johannes_Vermeer#/media/File:Jan_Vermeer_van_Delft_014.jpg",
+                    "thumbnail": "images/800px-Jan_Vermeer_van_Delft_014.jpg"
+                }
+            ]
+        }
+    ]
+}

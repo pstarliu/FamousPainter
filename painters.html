@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link href="styles/app.css" rel="stylesheet" />
+    <link href="styles/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1">
+                <img class="logoImg" src="images/brush.png" />
+            </div>
+            <div class="col-md-11 pull-left">
+                <h1>Famous Painters</h1>
+                <select id="FamousPainter">
+                    <option disabled>Choose a painter ...</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="content">
+            <div id="painterDesc"></div>
+            <h3>Examples</h3>
+            <div class="examples" id="examples"></div>
+            <div id="example-carousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#example-carousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#example-carousel" data-slide-to="1"></li>
+                    <li data-target="#example-carousel" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" id="carousel-inner-examples">
+                </div>
+                <a class="left carousel-control" href="#example-carousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+                <a class="right carousel-control" href="#example-carousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+
+            <div class="debugInfo" id="debugInfo"></div>
+        </div>
+    </div>
+    <script data-main="scripts/app" src="scripts/require.js"></script>
+</body>
+</html>
